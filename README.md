@@ -30,6 +30,8 @@ devtools::install_github("aet21/CancerStemID")
 
 
 # References
+ 
+Liu T, Zhao X, Lin Y, Luo Q, Zhang S, Xi Y, Chen Y, Lin L, Fan W, Yang J, Ma Y, Maity AK, Huang Y, Wang J, Chang J, Lin D, Teschendorff AE, Wu C. Computational Identification of Preneoplastic Cells Displaying High Stemness and Risk of Cancer Progression. Cancer Res. 2022 Jul 18;82(14):2520-2537. doi: 10.1158/0008-5472.CAN-22-0668. 
 
 Teschendorff AE, Enver T.  Single-cell entropy for accurate estimation of differentiation potency from a cell's transcriptome. Nat Commun. 2017 Jun 1;8:15599. doi: 10.1038/ncomms15599
 
